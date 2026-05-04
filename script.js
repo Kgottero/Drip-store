@@ -244,7 +244,6 @@ function renderProducts() {
   '<img src="' + product.image + '" alt="' + product.name + '">' +
   '<button class="card-gradient-add" onclick="addToCart(' + product.id + ')">+ Quick Add</button>' +
 '</div>' +
-        '<button class="card-gradient-add" onclick="addToCart(' + product.id + ')">+ Quick Add</button>' +
       '</div>' +
       '<div class="card-body">' +
         '<button class="card-add-btn" id="addBtn-' + product.id + '" onclick="addToCart(' + product.id + ')">' +
