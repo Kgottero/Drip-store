@@ -14,53 +14,53 @@ const products = [
     id: 1,
     name: "Sneakers",
     price: 25000,
-    image: "IMG_2011.PNG"
+    image: "Images/shoes.jpg"
   },
   {
     id: 2,
     name: "Hoodie",
     price: 15000,
-   image: "IMG_2011.PNG"
+   image: "Images/hoodie.jpg"
   },
   {
     id: 3,
     name: "Cap",
     price: 5000,
-    image: "IMG_2011.PNG"
+    image: "Images/cap.jpg"
   },
   {
     id: 4,
     name: "Wrist Watch",
-    price: 500000,
-    image: "IMG_2011.PNG"
+    price: 35000,
+    image: "Images/wristwatch.jpg"
   },
   {
     id: 5,
     name: "Backpack",
     price: 18000,
-    image: "IMG_2011.PNG"
+    image: "Images/backpack.jpg"
   },
   {
     id: 6,
     name: "Sunglasses",
     price: 12000,
-    image: "IMG_2011.PNG"  
+    image: "Images/glasses.jpg"  
 },
   {
     id: 7,
     name: "Slides",
     price: 10000,
-    image: "IMG_2011.PNG"  },
+    image: "Images/slides.jpg"  },
   {
     id: 8,
     name: "T-Shirt",
     price: 8000,
-    image: "IMG_2011.PNG"  },
+    image: "Images/tshirt.jpg"  },
   {
     id: 9,
     name: "Baseball Bat",
     price: 70000,
-    image: "IMG_2011.PNG"
+    image: "Images/baseball-bat.webp"
   }
 ];
 
